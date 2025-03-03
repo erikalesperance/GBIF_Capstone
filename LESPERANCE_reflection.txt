@@ -1,0 +1,10 @@
+1.The differences in numbers for the museum counts indicate that some museums and sources include and prioritize locality information more than others. For instance, almost all of the iNaturalist data includes locality information. When it is filtered, only 14 specimens are excluded (out of >5000). Plus a lot of human observations could have been documented with the iNaturalist app, which likely includes the exact latitude and longitude that the picture/observation was taken and recorded. The NMR source is almost completely devoid of locality, suggesting that location is not a top priority when collecting specimens. 
+
+2. Writing a script with thorough comments and a read me file greatly improves reproducibility in comparison to simply the terminal history like we uploaded for capstone 1. The analysis has also improved as we have widened the scope and depth of analysis, incorporating not only duplicated record counts, but also species, location, and time (year) data. The improved efficiency also allows for less room for error through the use of pipes and confidence checks throughout the script. 
+
+3. File formats can be more specific to the type of data analysis you are working with/conducting. Including fasta files would not provide much, if any, added benefit to this data set and project; the same goes for GTF/GFF files.
+
+4. I learned a lot over the first three modules! Yes, I knew how to code and navigate the command line pretty well coming into the class, but I never had any formal training, so this class really helped me understand and interpret code in a more thorough and comprehensive way. It also helped me think through computing issues with a different perspective and apply it to my own research problems outside of the course. 
+
+5. I can keep working on the command line! Practice is the best way to maintain and build upon your language skills.  
+
