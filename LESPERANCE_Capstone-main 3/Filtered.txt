@@ -1,0 +1,6 @@
+Species name	Percentage filtered
+castaneus	18.0600
+domesticus	98.8300
+musculus	83.1900
+molossinus	23.4000
+spretus	94.7800

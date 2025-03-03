@@ -1,0 +1,6 @@
+Museum	AMNH	FMNH	iNaturalist	KU	MVZ	NHMUK	NMR	SMF	USNM	YPM
+castaneus	5	139	7	4	32	0	1	0	81	0
+domesticus	0	0	0	0	0	0	8	0	0	186
+musculus	169	1822	5003	1552	5900	144	41	329	618	222
+molossinus	0	1	0	10	0	0	0	0	0	0
+spretus	0	3	33	0	123	0	0	0	449	3
